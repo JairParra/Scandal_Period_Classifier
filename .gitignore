@@ -130,4 +130,4 @@ dmypy.json
 
 # other 
 gitpush.bash
-anomaly_periods.csv
+article_data.csv
