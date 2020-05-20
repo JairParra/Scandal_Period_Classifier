@@ -11,7 +11,7 @@
  Both dates are inclusive. 
  
 ### article_data.csv 
-Contains newspaper articles from several sources, each of which mentions a government agency. 
+- Contains newspaper articles from several sources, each of which mentions a government agency. 
 
       metadata:
           id:       id of the article
@@ -21,3 +21,5 @@ Contains newspaper articles from several sources, each of which mentions a gover
           byline:   byline of the article
           story:    article text
           agencies: agency/agencies mentioned in the article
+          
+- Data can be found at https://drive.google.com/file/d/1uSj2taYF0XgpSt3AHEOvPsrcAsPhzuG5/view?usp=sharing  
